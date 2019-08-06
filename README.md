@@ -5,7 +5,7 @@ PROJECT START STEPS:
 
     Pre-requisites:
     1. Install http-server module (https://yarnpkg.com/en/package/http-server).
-    2. Install node, npm, yarn angular-cli for angular 2
+    2. Install node, npm, yarn and angular-cli for angular 2
 
     Steps:
     1. To run this application, do the following:
